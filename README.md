@@ -3,7 +3,7 @@
 
 > 듣말퀴 : 듣고 말하고 퀴즈!
 
-<img src=https://user-images.githubusercontent.com/101167304/169322704-798b07b9-e055-45ca-affd-82c46cb5dbf5.png width="200" height="280"/> 
+<img src=https://user-images.githubusercontent.com/101167304/169322704-798b07b9-e055-45ca-affd-82c46cb5dbf5.png width="200" height="300"/> 
 
 
 
