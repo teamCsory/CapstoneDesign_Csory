@@ -88,8 +88,11 @@
 
 ## 설계
 ### 개발환경
-![as](https://user-images.githubusercontent.com/101167304/169301193-25481ae8-b874-4be9-b837-218b26d33476.png)
-![ko](https://user-images.githubusercontent.com/101167304/169301203-5a288df8-70fe-4645-aec9-97139f2d5c48.png)
+
+<img src="https://user-images.githubusercontent.com/101167304/169301193-25481ae8-b874-4be9-b837-218b26d33476.png  width="200" height="400"/>
+<img src ="https://user-images.githubusercontent.com/101167304/169301203-5a288df8-70fe-4645-aec9-97139f2d5c48.png width="200" height="400"/>
+
+
 
 
 ### 일정
