@@ -1,4 +1,4 @@
-Hallym University Capstone Design - C소리
+#####Hallym University Capstone Design - C소리
 # 듣말퀴(듣고 말하고 퀴즈!) \: 난청인(청각 장애인)을 위한 청능 재활 애플리케이션
 
 듣말퀴 : 듣고 말하고 퀴즈!
