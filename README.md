@@ -1,7 +1,9 @@
 #### Hallym University Capstone Design - C소리
 # *난청인(청각 장애인)을 위한 청능 재활 애플리케이션*
 
-> 듣말퀴 : 듣고 말하고 퀴즈! <img src=https://user-images.githubusercontent.com/101167304/169322704-798b07b9-e055-45ca-affd-82c46cb5dbf5.png width="150" height="280"/> 
+> 듣말퀴 : 듣고 말하고 퀴즈!
+
+<img src=https://user-images.githubusercontent.com/101167304/169322704-798b07b9-e055-45ca-affd-82c46cb5dbf5.png width="200" height="280"/> 
 
 
 
