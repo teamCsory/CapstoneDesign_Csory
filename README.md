@@ -1,6 +1,8 @@
 #### Hallym University Capstone Design - C소리
 # *난청인(청각 장애인)을 위한 청능 재활 애플리케이션*
----
+'''
+듣말퀴 : 듣고 말하고 퀴즈!
+'''
 
 
 ## 팀 구성
@@ -102,19 +104,11 @@
 
 
 ### 일정
-
-
-
-
-## 프로젝트 결과
-
-
-
-### 일정
-
-
+![20220519_231838](https://user-images.githubusercontent.com/101167304/169317862-c9e2db85-3a1a-48b8-b0c7-7996d6c75f33.jpg)
+[Csory's WBS.xlsx](https://github.com/teamCsory/CapstoneDesign_Csory/files/8730138/Csory.s.WBS.xlsx)
 
 
 ## 프로젝트 결과
+
 
 
