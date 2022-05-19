@@ -93,9 +93,7 @@
 
 
 
-<img src= https://user-images.githubusercontent.com/101167304/169302696-0905267e-9ff2-41fc-baeb-56531ce3a936.png  width="400" height="200"/>
-                                                                                                                                         
-<img src= https://user-images.githubusercontent.com/101167304/169317016-160a231a-b753-4ea4-91da-ff7b75ada7b7.png  width="400" height="200"/>                                                                                                                                         
+<img src= https://user-images.githubusercontent.com/101167304/169302696-0905267e-9ff2-41fc-baeb-56531ce3a936.png  width="400" height="200"/> <img src= https://user-images.githubusercontent.com/101167304/169317016-160a231a-b753-4ea4-91da-ff7b75ada7b7.png  width="400" height="150"/>                                                                                                                                         
                                                                                                                                          
 
 
