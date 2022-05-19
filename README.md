@@ -1,9 +1,9 @@
-# Hallym University Capstone Design - Csory
+# Hallym University Capstone Design - C소리
 
 # 팀 구성
 
-팀명: Csory
+- 팀명: C소리
 
-팀장: 청각학과 박현아
+- 팀장: 청각학전공 박현아
 
-팀원: 청각학과 탁유민
+- 팀원: 청각학전공 탁유민
