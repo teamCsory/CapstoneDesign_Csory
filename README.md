@@ -73,7 +73,7 @@
 
 ---
 ## 프로젝트 결과
-<img src=https://user-images.githubusercontent.com/101167304/169516025-9a732f72-c164-41f0-81bf-483f4c01f343.jpg width="200" height="300"/> <img src=https://user-images.githubusercontent.com/101167304/169516057-c02a4328-f46f-4a3f-99ed-1b73d0207a2e.jpg width="200" height="300"/> <img src=https://user-images.githubusercontent.com/101167304/169516095-a7308f77-3a25-43fc-b636-4a544e0bb42d.jpg width="200" height="300"/> <img src=https://user-images.githubusercontent.com/101167304/169516107-902a9de8-7b1e-41d0-b33f-ebce6297cc3c.jpg width="200" height="300"/> <img src=https://user-images.githubusercontent.com/101167304/169516119-9d9abf59-a207-49e7-b78b-9b58d9e5c21a.jpg width="200" height="300"/>
+<img src=https://user-images.githubusercontent.com/101167304/169516025-9a732f72-c164-41f0-81bf-483f4c01f343.jpg width="190" height="300"/> <img src=https://user-images.githubusercontent.com/101167304/169516057-c02a4328-f46f-4a3f-99ed-1b73d0207a2e.jpg width="190" height="300"/> <img src=https://user-images.githubusercontent.com/101167304/169516095-a7308f77-3a25-43fc-b636-4a544e0bb42d.jpg width="190" height="300"/> <img src=https://user-images.githubusercontent.com/101167304/169516107-902a9de8-7b1e-41d0-b33f-ebce6297cc3c.jpg width="190" height="300"/> <img src=https://user-images.githubusercontent.com/101167304/169516119-9d9abf59-a207-49e7-b78b-9b58d9e5c21a.jpg width="190" height="300"/>
 
 
 
